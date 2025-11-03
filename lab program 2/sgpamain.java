@@ -85,4 +85,5 @@ public class sgpamain {
         s1.display();
         s1.sgpa();
     }
+
 }
