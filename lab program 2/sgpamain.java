@@ -34,8 +34,10 @@ import java.util.*;
             
             System.out.println("enter marks for subject "+(i+1));
             marks[i]=sc.nextDouble();
+            sc.nextline();
             System.out.println("enter credits for subject "+(i+1));
             creds[i]=sc.nextDouble();
+            sc.nextline();
           
             //now,we need to calculate grade array based of range of marks
             if(marks[i]>=90 && marks[i]<=100)
@@ -87,3 +89,4 @@ public class sgpamain {
     }
 
 }
+
