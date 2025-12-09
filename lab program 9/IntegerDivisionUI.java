@@ -74,3 +74,4 @@ public class IntegerDivisionUI {
         JOptionPane.showMessageDialog(frame, message, "Error", JOptionPane.ERROR_MESSAGE);
     }
 }
+
